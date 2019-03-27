@@ -1,2 +1,2 @@
 # Project_3CodeIgniter
-Project COdeigniter ke 3.
+Project Codeigniter ke 3.
